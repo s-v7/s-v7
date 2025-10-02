@@ -1,4 +1,4 @@
-👋 Hi, I'm (@s-v7) => "Silas Vasconcelos Cruz" -> first account: https://github.com/silasjogador07
+👋 Hi, I'm (@s-v7) => "Silas Vasconcelos Cruz" -> first account: https://github.com/NeoSilas
 - 👀 I'm interested in continuous learning, new friendships and being able to contribute on open source platforms as far as I can go and friends trust!!!
 - 🌱 I've been learning autonomously a few days ago some languages and frameworks!!!
 - 💞️ I'm looking to collaborate on Open Source Platforms/Projects!!!
