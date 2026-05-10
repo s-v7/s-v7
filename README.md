@@ -2,15 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,0E63AD&height=120&section=header&animation=fadeIn" />
 
-```
-                                        ███████        ██    ██  ███████ 
-                                        ██             ██    ██       ██ 
-                                        ███████  ████  ██    ██      ██  
-                                             ██       ██    ██     ██   
-                                    ███████       ███████     ██ 
-```
-
-### `[ SIGEC v2 · Fiscal Intelligence Engine ]`
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=S%E2%80%93V7&fontSize=90&fontColor=0E63AD&animation=fadeIn&fontAlignY=55" width="100%" />
 
 *Full Stack Developer · Tech & InfoSec Advisor*
 **CREA-PI — Conselho Regional de Engenharia e Agronomia do Piauí**
@@ -25,7 +17,7 @@
 
 <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=s-v7&show_icons=true&theme=dark&bg_color=0d1117&border_color=0E63AD&icon_color=0E63AD&title_color=0E63AD&text_color=c9d1d9&count_private=true" />
 
-### ⋆ Silas Vasconcelos
+### ⋆ Silas Vasconcelos Cruz
 
 ```yaml
 account     : s-v7  [ institutional / CREA-PI ]
