@@ -3,11 +3,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,0E63AD&height=120&section=header&animation=fadeIn" />
 
 ```
-  ███████        ██    ██  ███████ 
-  ██             ██    ██       ██ 
-  ███████  ████  ██    ██      ██  
-       ██       ██    ██     ██   
-  ███████      ███████     ██ 
+                                        ███████        ██    ██  ███████ 
+                                        ██             ██    ██       ██ 
+                                        ███████  ████  ██    ██      ██  
+                                             ██       ██    ██     ██   
+                                        ███████       ███████     ██ 
 ```
 
 ### `[ SIGEC v2 · Fiscal Intelligence Engine ]`
@@ -17,7 +17,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=0E63AD&center=true&vCenter=true&width=520&lines=Institutional+Software+Engineering;1.1M+ARTs+%7C+224+Municipalities+%7C+PostGIS;Fiscal+Intelligence+%7C+VRP+%7C+LangGraph+RAG;%E2%96%BA+github.com%2Fsvc0x111+%E2%86%92+personal+projects)](https://github.com/s-v7)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=0E63AD&center=true&vCenter=true&width=520&lines=Computer+Engineering+%7C+CREA-PI;1.1M+ARTs+%7C+224+Municipalities+%7C+PostGIS;Fiscal+Intelligence+%7C+VRP+%7C+LangGraph+RAG;%E2%96%BA+github.com%2Fsvc0x111+%E2%86%92+personal+projects)](https://github.com/s-v7)
 
 </div>
 
@@ -25,7 +25,7 @@
 
 <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=s-v7&show_icons=true&theme=dark&bg_color=0d1117&border_color=0E63AD&icon_color=0E63AD&title_color=0E63AD&text_color=c9d1d9&count_private=true" />
 
-### ⋆ Silas Vasconcelos Cruz
+### ⋆ Silas Vasconcelos
 
 ```yaml
 account     : s-v7  [ institutional / CREA-PI ]
