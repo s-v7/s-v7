@@ -22,7 +22,7 @@
 ```yaml
 account     : s-v7  [ institutional / CREA-PI ]
 personal    : github.com/svc0x111
-location    : Teresina, Piauí — Brazil
+location    : arbitrary, Piauí — Brazil
 division    : DIN — Computing Division
 role        : Full Stack Dev · InfoSec Advisor
 ecosystem   : SIGEC v2 · FIE · CadastroObras
