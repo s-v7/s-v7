@@ -20,7 +20,7 @@
 ### ⋆ Silas Vasconcelos Cruz
 
 ```yaml
-account     : s-v7  [ institutional / CREA-PI ]
+account     : s-v7  [ github.com/svc0x111 ]
 personal    : github.com/svc0x111
 location    : arbitrary, Piauí — Brazil
 division    : DIN — Computing Division
