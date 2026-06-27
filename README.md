@@ -29,41 +29,6 @@ Lead developer and architect of **SIGEC v2**, a fiscal intelligence platform for
 
 ---
 
-### FIE Ecosystem — Fiscal Intelligence Engine
-
-**SistemaCrea** &nbsp;·&nbsp; *Internal Intelligence Monitor*
-
-Real-time oversight platform for institutional workflow. Consolidates protocol queues, technical-advisor performance, and alert pipelines into a live dashboard — with push notifications and multi-role access control. Operates as a read layer over the primary database, surfacing actionable intelligence without disrupting production operations.
-
----
-
-**Cadastro e Rastreamento de Obras** &nbsp;·&nbsp; *Works Registry & Traceability Engine*
-
-End-to-end platform for registering and tracking engineering works. Combines geospatial territorial coverage, role-based access, and a Hyperledger Fabric blockchain layer for tamper-proof traceability of contracts, responsibilities, and milestones. Designed to operate at **state scale**, with a 3D territorial visualization layer for spatial audit and route planning.
-
----
-
-**ART Intelligence Engine** &nbsp;·&nbsp; *Technical Document Analysis Platform*
-
-Modular platform for semantic and deterministic analysis of ARTs (Technical Responsibility Annotations) — the core legal instrument of Brazilian engineering oversight. Combines rule-based auditing, cross-referencing between databases and official PDFs, and LLM-powered explanatory enrichment, always preserving human decision authority. Every analysis is versioned, hashed, and traceable — built for legal defensibility.
-
----
-
-**FiscalBot** &nbsp;·&nbsp; *Field Operations Assistant for Engineering Inspectors*
-
-Operational Telegram bot connecting field inspectors directly to institutional data, without requiring access to the headquarters system. Inspectors query ART validity, professional registration status, and work history in real time. Supports issuance of violation notices through a guided conversational flow, with automatic routing between field and headquarters. Designed for low-connectivity environments.
-
----
-
-**CREA-PI Public Assistant** &nbsp;·&nbsp; *24h Institutional Guidance Bot*
-
-Public-facing virtual assistant providing normative guidance to engineers, companies, and citizens in the CONFEA/CREA system. Handles queries on ARTs, registration, fees, technical certificates, and inspection procedures — citing exact resolutions, routing to the correct division, and enforcing strict guardrails against exposure of sensitive data. LLM is used only as a supervised normative explainer, never as a decision engine.
-
----
-
-**Orchestrator** &nbsp;·&nbsp; *Multi-Agent Task Router*
-
-Central intelligence broker for the `s-v7` ecosystem. Receives natural-language tasks, classifies intent, and dispatches to specialized agents — a technical execution agent (OpenAI) for code, database, and infrastructure operations, and a documentary agent (Claude) for reports, proposals, and normative analysis. Supports parallel execution, with every run audited for full traceability.
 
 ---
 
