@@ -23,56 +23,6 @@ location    : Brazil · remote
 
 ---
 
-### ✦ Stack
-
-<div align="center">
-  
-**Linguagens & Sistemas**
-
-![C/C++](https://img.shields.io/badge/C_/_C%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=0E63AD)
-![Java](https://img.shields.io/badge/Java-6·7·8·11·17+-0d1117?style=flat-square&logo=openjdk&logoColor=0E63AD)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=0E63AD)
-![JS/TS](https://img.shields.io/badge/JavaScript_/_TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=0E63AD)
-
-**IA & Machine Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=0E63AD)
-![Keras](https://img.shields.io/badge/Keras-0d1117?style=flat-square&logo=keras&logoColor=0E63AD)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=0E63AD)
-![Anthropic](https://img.shields.io/badge/Anthropic·Claude-0d1117?style=flat-square&logo=anthropic&logoColor=0E63AD)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=0E63AD)
-![LangGraph](https://img.shields.io/badge/LangGraph·RAG-0d1117?style=flat-square&logo=langchain&logoColor=0E63AD)
-
-**Dados & Otimização**
-
-![pandas](https://img.shields.io/badge/pandas-0d1117?style=flat-square&logo=pandas&logoColor=0E63AD)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=0E63AD)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL·PostGIS-0d1117?style=flat-square&logo=postgresql&logoColor=0E63AD)
-![OR-Tools](https://img.shields.io/badge/OR--Tools·VRP-0d1117?style=flat-square&logo=google&logoColor=0E63AD)
-
-**Backend & Web**
-
-![Java EE](https://img.shields.io/badge/Java_EE·javax→jakarta-0d1117?style=flat-square&logo=jakartaee&logoColor=0E63AD)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=0E63AD)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=0E63AD)
-![Angular](https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=0E63AD)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=0E63AD)
-
-**Infra & Tooling**
-
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=0E63AD)
-![Nginx](https://img.shields.io/badge/Nginx·systemd-0d1117?style=flat-square&logo=nginx&logoColor=0E63AD)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-0d1117?style=flat-square&logo=cloudflare&logoColor=0E63AD)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=0E63AD)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=0E63AD)
-![pytest](https://img.shields.io/badge/pytest-0d1117?style=flat-square&logo=pytest&logoColor=0E63AD)
-![Ruff](https://img.shields.io/badge/Ruff-0d1117?style=flat-square&logo=ruff&logoColor=0E63AD)
-![Vim](https://img.shields.io/badge/Vim-0d1117?style=flat-square&logo=vim&logoColor=0E63AD)
-
-</div>
-
----
-
 <div align="center">
 
 *Personal projects & MVPs →* **[github.com/svc0x111](https://github.com/svc0x111)**
