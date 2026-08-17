@@ -27,7 +27,7 @@ location    : Brazil · remote
 
 *Personal projects & MVPs →* **[github.com/svc0x111](https://github.com/svc0x111)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0E63AD)](https://linkedin.com/in/silas-vasconcelos-cruz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0E63AD)](https://www.linkedin.com/in/silas-v-053293255/)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0E63AD,0d1117&height=80&section=footer&animation=fadeIn" />
 
